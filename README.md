@@ -6,11 +6,11 @@
 	
 	kubectl apply -f cassandra-statefulset.yaml
 
-## Note: 
+### Note: 
 Here we are simply using the non-persistent volume. You shall use persistent volume to use cassandra 
 
 
-Reference: 
+### Reference: 
 
 https://kubernetes.io/docs/tutorials/stateful-application/cassandra/
 
